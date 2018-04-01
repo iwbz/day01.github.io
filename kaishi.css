@@ -1,0 +1,36 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+    background-color:aliceblue;
+}
+h1 {
+    font-family: fantasy;
+    color: firebrick;
+	font-size: 32px;
+}
+h2 {
+	color: #ffffff;
+	font-size: 56px; 
+}
+.hero {
+	background-image: url(牟牟图片/Image/07.jpg);
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica', '微软雅黑';
+}
+anliu
+{
+ cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+
+
+}
